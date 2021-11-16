@@ -1,0 +1,44 @@
+@charset "UTF-8";
+/* CSS Document */
+
+   body
+		{
+			font-family: Arial, Helvetica, sans-serif;
+			font-size: 13px;
+			color: #0f0f0f;
+			text-decoration: none;
+		}
+		a:link
+		{
+			text-decoration: none;
+			color: #0f0f0f;
+		}
+	a:visited
+		{
+			text-decoration: none;
+			color: #0f0f0f;
+		}
+		a:hover
+		{
+			text-decoration: none;
+			color: #0f0f0f;
+		}
+	a:active
+		{
+			text-decoration: none;
+			color: #0f0f0f;
+		}
+	
+	 table
+	{
+		padding-left: 80px; !important;
+		font-family: Arial, Helvetica, sans-serif; !important
+		font-size: 13px; !important
+		color: #0f0f0f; !important
+	}
+	img
+	{
+		padding-left: 20px;
+		padding-bottom: 40px;
+		padding-top: 40px;
+	}
